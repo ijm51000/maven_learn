@@ -7,6 +7,15 @@
   <groupId>ijm51000.programmming</groupId>
   <artifactId>maven_learn</artifactId>
   <version>1.0</version>
+
+  <dependencies>
+    <dependency>
+        <groupId>org.apache.commons</groupId>
+        <artifactId>commons-lang3</artifactId>
+        <version>3.9</version>
+    </dependency>
+  </dependencies>
+
   <build>
     <plugins>
       <plugin>
